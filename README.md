@@ -1,3 +1,3 @@
 # test_jenkins_pipeline
 
-test commit
+test commit pull request
